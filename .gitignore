@@ -1,0 +1,17 @@
+# Python environments and generated caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local reference material and environment configuration
+/materials/
+.env
+.env.*
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
